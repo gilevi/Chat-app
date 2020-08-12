@@ -1,5 +1,15 @@
-# Welcome to GitHub Desktop!
+# React Chat Application
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+## Web application using React.js, Node.js and Socket.io
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+A Chat-messaging application that allows users to open private "rooms" and talk with other users there. 
+The app build in Scoket architecture (using Socket.io module for server and Socket-io-client for client)
+
+### [Live Site](https://5f2fe81f848de027c0493981--angry-panini-c73fc2.netlify.app/)
+
+Technologies I used:
+
+React
+Node with Express
+Socket.io API
+
