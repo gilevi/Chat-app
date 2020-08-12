@@ -9,7 +9,9 @@ The app build in Scoket architecture (using Socket.io module for server and Sock
 
 Technologies I used:
 
-React
-Node with Express
-Socket.io API
+- React
+- Node with Express
+- Socket.io API
 
+Setup:
+- run npm i && npm start for both client and server side to start the development server
